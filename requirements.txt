@@ -1,6 +1,3 @@
 streamlit
-transformers
-tensorflow
-nltk
-tf-keras
-scikit-learn
+python-dotenv
+google.generativeai
